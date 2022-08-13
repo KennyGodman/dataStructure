@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d76a909e-db30-4f11-93f5-8a2c9ea966f7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/test/dataStructure/VectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataStructure/VectorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,20 @@
       <recent name="com.Godman.unicorns.payable" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StackTest.testThatItemsCanBeAddedToStack">
+  <component name="RunManager" selected="Application.Calintegers">
+    <configuration name="Calintegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.Calintegers" />
+      <module name="Ticket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackTest.testThatItemsCanBeAddedToStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ticket" />
       <option name="PACKAGE_NAME" value="" />
@@ -118,29 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorTest.testThatListDoestNotContainsElementNotAddedToTheList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Ticket" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataStructure" />
-      <option name="MAIN_CLASS_NAME" value="dataStructure.VectorTest" />
-      <option name="METHOD_NAME" value="testThatListDoestNotContainsElementNotAddedToTheList" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calintegers" />
         <item itemvalue="JUnit.StackTest.testThatItemsCanBeAddedToStack" />
         <item itemvalue="JUnit.StackTest.testingToSetStackAtASpecificIndex" />
         <item itemvalue="JUnit.VectorTest.testThatItemCanReplaceItemAtASpecificIndexWithoutReplacement" />
         <item itemvalue="JUnit.VectorTest.testThatListCanBeAddedByItemAndIndex" />
-        <item itemvalue="JUnit.VectorTest.testThatListDoestNotContainsElementNotAddedToTheList" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +159,7 @@
       <workItem from="1659274211923" duration="8866000" />
       <workItem from="1659405699037" duration="2662000" />
       <workItem from="1659465296554" duration="118706000" />
-      <workItem from="1660428590324" duration="1233000" />
+      <workItem from="1660428590324" duration="1952000" />
     </task>
     <servers />
   </component>
