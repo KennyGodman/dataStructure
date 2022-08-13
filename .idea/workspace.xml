@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d76a909e-db30-4f11-93f5-8a2c9ea966f7" name="Changes" comment="" />
+    <list default="true" id="d76a909e-db30-4f11-93f5-8a2c9ea966f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/test/dataStructure/VectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataStructure/VectorTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +162,7 @@
       <workItem from="1659274211923" duration="8866000" />
       <workItem from="1659405699037" duration="2662000" />
       <workItem from="1659465296554" duration="118706000" />
-      <workItem from="1660428590324" duration="380000" />
+      <workItem from="1660428590324" duration="1233000" />
     </task>
     <servers />
   </component>

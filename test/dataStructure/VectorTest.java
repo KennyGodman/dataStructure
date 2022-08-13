@@ -35,7 +35,7 @@ public class VectorTest {
         vector.add("Laptop");
         vector.add("Phone");
         vector.add("Colone");
-        assertEquals("Loud", vector.get(0));
+        assertEquals("Glasses", vector.get(0));
     }
 
     @Test
@@ -73,7 +73,7 @@ public class VectorTest {
         vector.add("Laptop");
         vector.add("Phone");
         vector.add("Colone");
-        vector.remove("Loud");
+        vector.remove("Glasses");
         assertEquals(null, vector.get(0));
 
     }
@@ -84,7 +84,7 @@ public class VectorTest {
         vector.add("Laptop");
         vector.add("Phone");
         vector.add("Colone");
-        assertTrue(vector.contains("Loud"));
+        assertTrue(vector.contains("Glasses"));
 
     }
 
