@@ -16,7 +16,7 @@ public class StackTest {
     }
     @Test
     public void testThatStackIsNotEmpty(){
-        stack.push("loud");
+        stack.push("Glasses");
         assertFalse(stack.isEmpty());
     }
     @Test
