@@ -1,5 +1,6 @@
-package dataStructure;
+package dataStructure2;
 
+import dataStructure.Vector;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
