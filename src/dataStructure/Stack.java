@@ -1,7 +1,7 @@
 package dataStructure;
 
 public class Stack extends Vector{
-    private  String [] stack = new String[3];
+    private  String [] stack = new String[4];
     private boolean isEmpty = true;
     private int count;
     public void push(String item){

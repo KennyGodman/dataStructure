@@ -3,78 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d76a909e-db30-4f11-93f5-8a2c9ea966f7" name="Changes" comment="another commit1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Copy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameOfCraps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Compensationmodel/BasePlusCommissionCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Compensationmodel/CommissionCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Compensationmodel/CompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Compensationmodel/CompensationModelTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Compensationmodel/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Compensationmodel/HourlyCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Compensationmodel/SalariedCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/PayableImplementation/CompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/PayableImplementation/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/PayableImplementation/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/PayableImplementation/Payable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/PayableImplementation/PayableInterfaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/PayableImplementation/SalariedCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payablemodification/com/BasePlusCommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payablemodification/com/CommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payablemodification/com/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payablemodification/com/HourlyEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payablemodification/com/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payablemodification/com/Payable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payablemodification/com/PayrollTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payablemodification/com/SalariedEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payrollmodification/BasePlusCommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payrollmodification/CommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payrollmodification/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payrollmodification/HourlyEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payrollmodification/PayRollTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payrollmodification/PieceWorker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/payrollmodification/SalariedEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/RightAngle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/Table.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Calintegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Calintegers2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/ArrayPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/ArrayPractice2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/Shuffling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/ShufflingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/ArrayTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/ArrayTasks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Arrays/Turtle/Pen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Arrays/Turtle/PenPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Arrays/Turtle/SketchPad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Arrays/Turtle/Turtle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Break.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Diary/Database.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Diary/Diary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Diary/Entry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Diary/Output.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/DiaryApp/DiaryApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/DiaryApp/Entry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Godmans.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Gross/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Gross/SalesPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/PRACTICE/BarChart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/PRACTICE/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/PRACTICE/DeckOfCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Tasks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/Variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/area.pi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/area.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/arraysAndArrayLists/Practices.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Godman/store/StoreCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,20 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.unicorns.payroll" />
@@ -131,6 +61,7 @@
       <recent name="dataStructure" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dataStructure2" />
       <recent name="com.unicorns.payroll" />
       <recent name="com.ModelTest" />
       <recent name="com.Models" />
@@ -231,7 +162,7 @@
       <workItem from="1659274211923" duration="8866000" />
       <workItem from="1659405699037" duration="2662000" />
       <workItem from="1659465296554" duration="118706000" />
-      <workItem from="1660428590324" duration="3864000" />
+      <workItem from="1660428590324" duration="5081000" />
     </task>
     <task id="LOCAL-00001" summary="another commit">
       <created>1660430842086</created>
